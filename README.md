@@ -4,8 +4,8 @@
 | Field | Details |
 |-------|---------|
 | **Student Name** | Krishna Shukla |
-| **Registration Number** | [Your Reg Number] |
-| **Chosen Software** | Python (PSF License) |
+| **Registration Number** | 24MIM10215 |
+| **Chosen Software** | Python  |
 | **Course** | Open Source Software — NGMC |
 
 ---
